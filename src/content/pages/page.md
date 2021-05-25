@@ -1,6 +1,6 @@
 ---
-template: about-page
-slug: /about
+template: page
+slug: /page
 title: About Foundation
 ---
 
