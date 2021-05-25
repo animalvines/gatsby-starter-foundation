@@ -7,7 +7,7 @@ description: >-
   Hairfortin Review: What is Hairfortin Supplement?
 
   It is a multi-purpose dietary supplement. Along with the benefits of hair growth, it also helps prevent hair fall and eliminate other hair-related issues.
-featuredImage: https://thebuyerspot.com/hairfortin-review/
+featuredImage: /assets/law-of-attraction.jpg
 ---
 Are you suffering from hair fall or other hair-related issues? Then Hairfortin will act as your lifesaver. It helps nourish the follicles for the healthy growth of hair and get rid of all scalp problems. It is made up of plant-based natural ingredients and is free of any harmful chemicals.
 
